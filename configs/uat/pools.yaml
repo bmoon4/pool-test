@@ -1,3 +1,4 @@
 ---
 default_pool: 16
 APP0_pool: 10
+KOR0_pool: 10
